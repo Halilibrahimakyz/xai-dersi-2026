@@ -4,4 +4,14 @@ title: "XAI Dersi"
 
 Bu site, XAI dersi kapsamında hazırlanan çeviri ve dokümantasyonu içerir.
 
-Sol üstteki menüden bölümlere ulaşabilirsiniz.
+Aşağıdaki listeden bölümlerin çevirilerine ulaşabilirsiniz.
+
+## Bölümler
+
+<!-- Yeni çeviri ekleyen öğrenci, kendi satırını bölüm numarası sırasına göre bu tabloya ekler ve index.qmd dosyasını yeniden render eder (quarto render index.qmd). Bağlantı, render edilmiş .html dosyasını göstermelidir. -->
+
+| Bölüm | Çeviri |
+|:------|:-------|
+| 6 · Doğrusal Regresyon | [Ahmet Batuhan Kaya](2026-guz/06_linear-regression/ceviri/ahmetbatuhankaya-20269348005.html) |
+| 7 · Lojistik Regresyon | [Ahmet Batuhan Kaya](2026-guz/07_logistic-regression/ceviri/ahmetbatuhankaya-20269348005.html) |
+| 8 · GLM, GAM ve Ötesi | [Ahmet Batuhan Kaya](2026-guz/08_glm-gam-and-more/ceviri/ahmetbatuhankaya-20269348005.html) |
