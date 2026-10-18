@@ -217,6 +217,9 @@ marimo/_lsp/
 /_site/
 *_files/
 *.html
+# Track rendered chapter translations.
+!/2026-guz/02_interpretability/ceviri/interpretability-tr.html
+!/2026-guz/03_goals-of-interpretability/ceviri/goals-of-interpretability-tr.html
 *.pdf
 __marimo__/
 
