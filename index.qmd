@@ -15,3 +15,5 @@ Aşağıdaki listeden bölümlerin çevirilerine ulaşabilirsiniz.
 | 6 · Doğrusal Regresyon | [Ahmet Batuhan Kaya](2026-guz/06_linear-regression/ceviri/ahmetbatuhankaya-20269348005.html) |
 | 7 · Lojistik Regresyon | [Ahmet Batuhan Kaya](2026-guz/07_logistic-regression/ceviri/ahmetbatuhankaya-20269348005.html) |
 | 8 · GLM, GAM ve Ötesi | [Ahmet Batuhan Kaya](2026-guz/08_glm-gam-and-more/ceviri/ahmetbatuhankaya-20269348005.html) |
+| 14 · Lime | [İlker Uğur Kaya](2026-guz/14_lime/ceviri/14-lime.html) |
+| 15 · Counterfactual Explanations | [İlker Uğur Kaya](2026-guz/15_counterfactual_explanations/ceviri/15-Counterfactual%20Explanations.html) |
